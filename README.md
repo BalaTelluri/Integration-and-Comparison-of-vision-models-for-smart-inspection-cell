@@ -14,8 +14,10 @@ Surface defects such as **scratches, dents, cracks, and pitting** can significan
 ## 🎯 Project Objectives
 
 - Train **YOLOv8** for defect detection and localization  
-- Train **MobileNetV2** for lightweight image-level defect classification  
-- Compare both models using industrial performance metrics  
+- Train **MobileNetV2** for lightweight image-level defect classification
+- Build a simulation setup in RoboDK for process control
+- Integrate trained models for defect classification and localization
+- Compare both models using real-time industrial performance metrics  
 - Measure inference latency and runtime behavior  
 - Assess feasibility for real-world inspection scenarios  
 
