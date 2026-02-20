@@ -78,7 +78,7 @@ The models are evaluated using the following metrics:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Pallelayaswitha1/Integration-and-Comparison-of-vision-models-for-smart-inspection-cell/tree/main
+git clone https://github.com/Sai99897/Integration-and-Comparison-of-vision-models-for-smart-inspection-cell.git
 cd Integration-and-Comparison-of-vision-models-for-smart-inspection-cell 
 
 
