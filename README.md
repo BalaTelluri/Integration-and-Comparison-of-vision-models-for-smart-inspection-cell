@@ -66,11 +66,12 @@ The models are evaluated using the following metrics:
 ---
 
 ## 🧪 Experimental Setup
-
+- Simulation tool: RoboDK
 - Platform: Google Colab  
 - GPU: NVIDIA Tesla T4  
 - Frameworks: PyTorch, Ultralytics YOLOv8  
-- Batch size: 1  
+- Batch size: 1
+- <img width="1918" height="999" alt="Screenshot from 2026-02-20 13-33-54" src="https://github.com/user-attachments/assets/21bf7f5b-ebd2-43db-86d0-f53574edc143" />
 
 
 
